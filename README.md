@@ -10,6 +10,7 @@ This is a simple web application for data rendering operations.
 
 1.Clone the repository: git clone https://github.com/RushiGhunke21/Demo.git
 
+Postman :
 The application will start running on 'http://localhost:8080'
 
 ## API Endpionts
